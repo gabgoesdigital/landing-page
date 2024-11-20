@@ -1,0 +1,98 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.navbar {
+    background: #1F2937;
+    color: white;
+}
+
+
+.container {
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+.navbar .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 60px;
+}
+
+.menu li a, .websiteawesome p {
+    color: #E5E7EB;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.websiteawesome {
+    margin-bottom: 25px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.navlinks .menu {
+    display: flex;
+    
+}
+
+.menu li a {
+    margin-left: 30px;
+}
+
+.awesome {
+    background-color:  #1f2937;
+}
+
+.headerlogo {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.awesome .container {
+    display: flex;
+    padding: 100px 0 100px 0;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.placeholder {
+    height: 250px;
+    width: 600px;
+    align-content: center;
+    background: grey;
+    text-align: center;
+    
+}
+
+.websiteawesome {
+width: 450px
+}
+
+h1 {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
+}
+
+.websiteawesome h1, .websiteawesome p {
+    margin-bottom: 25px;
+}
+
+button.awesome {
+    background-color: #3882F6;
+    color: white;
+    padding: 10px 35px;
+    border-radius: 8px;
+    border: #F9FAF8;
+}
