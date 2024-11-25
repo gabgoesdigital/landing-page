@@ -187,3 +187,16 @@ h2.random {
     border-radius: 5px;
 }
 
+
+/* Copyright Section */
+
+footer.copyright {
+    background: #1F2937;
+}
+
+.container .copyright {
+    text-align: center ;
+    color: white;
+    padding: 30px 30px;
+} 
+
